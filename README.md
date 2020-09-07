@@ -7,4 +7,4 @@ built many other things either using plans published by others, or simply by
 winging it. For a more extensive selection of projects, see the [gallery
 folder](gallery/).
 
-Finally, the [methods folder](methods) contains a few uesful tips & tricks.
+Finally, the [methods folder](methods) contains a few useful tips & tricks.
