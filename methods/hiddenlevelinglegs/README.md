@@ -34,7 +34,7 @@ Then drill a hole that's the size of the T-Nut's outside diameter, in this case
 3/4". A Forstner bit should be used in the drill, so the hole has a flat bottom
 and is generally tidy. The hole should be deep enough to accommidate the T-Nut plus the bolt, when fully closed.
 
-![](pics/IMB_o6jkxD.GIF "Drilling")
+![](pics/IMB_o6jkxD.png "Drilling")
 
 Next drill another, deeper hole into the center, which will accommodate the
 bolt's shaft. Make sure the hole is deep enough for the whole length of the
