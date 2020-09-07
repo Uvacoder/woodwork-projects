@@ -18,10 +18,6 @@ tables](https://woodgears.ca/miter/) for the rest of us.
 
 ![](pics/IMG_0134.png)
 
-The math on the cut angles on slanted polygons is extremely involved. Luckily,
-there are people who figured it all out and [published handy
-tables](https://woodgears.ca/miter/)
-
 
 ## Fancy containers
 
