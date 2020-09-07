@@ -1,5 +1,6 @@
-I have built this for all of our dogs, in different sizes. It is easy to scale.
-For the bowls I use the Van Ness heavyweight crocks, in the appropriate sizes.
+I built one of these for all of our dogs, in different sizes. It is easy to
+scale. For the bowls I use the Van Ness heavyweight crocks, in the appropriate
+sizes.
 
 Since dogs are messy eaters and drinkers, I finish these feeders with with
 several coats of water-based poly, and also caulk the inside edges/corners
