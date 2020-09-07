@@ -74,5 +74,6 @@ Plan by [Ana White](https://www.ana-white.com/woodworking-projects/2x4-modern-ad
 
 ![](pics/IMG_3623.png)
 ![](pics/IMG_3631.png)
+![](pics/IMG_3621.png)
 
 
