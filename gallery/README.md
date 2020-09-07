@@ -43,3 +43,8 @@ tables](https://woodgears.ca/miter/)
 ![](pics/IMG_0361.png)
 
 
+## Music console
+
+![](pics/IMG_0377.png)
+
+
