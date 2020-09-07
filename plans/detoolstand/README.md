@@ -5,5 +5,5 @@ parts, etc.
 
 ![](detoolstand.png)
 
-![](../gallery/pics/IMG_0330.png)
+![](../../gallery/pics/IMG_0330.png)
 

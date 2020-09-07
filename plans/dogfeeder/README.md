@@ -9,5 +9,5 @@ though should the feeder start to break down, it would be quite simple to
 replace the top half and reuse the leg assembly.
 
 ![](dogfeeder.png)
-![](../gallery/pics/IMG_4725.png)
+![](../../gallery/pics/IMG_4725.png)
 

@@ -6,5 +6,5 @@ completing it I decided to add a bottom as well as leveling legs, which can be
 seen in the picture.
 
 ![](cutoffbin.png)
-![](../gallery/pics/IMG_0514.png)
+![](../../gallery/pics/IMG_0514.png)
 
