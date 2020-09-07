@@ -109,7 +109,7 @@ Plan by [Ana White](https://www.ana-white.com/woodworking-projects/2x4-modern-ad
 
 ## Lumber cutoff storage
 
-![](pics/IMG_0234.png)
+![](pics/IMG_0239.png)
 
 
 ## Kitchen utensil & napkin holder
