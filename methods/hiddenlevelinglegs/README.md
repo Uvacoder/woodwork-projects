@@ -68,4 +68,3 @@ heavy table that's moved (dragged) around a lot, it's possible for the dragging
 to loosen T-Nut to and for the whole assembly to fall out of the leg.
 I'd probably use a different leveler method for such furniture.
 
-:::
