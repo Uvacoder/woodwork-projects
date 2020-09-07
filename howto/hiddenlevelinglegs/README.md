@@ -12,7 +12,7 @@ of these legs have a built-in leveling mechanism:
 ![](pics/IMG_3912.png "Plywood leg")
 
 I don't understand why not more commercial furniture (or woodworking plans)
-feature leveling legs. I guess it's a cost / complexity reason, but I consider
+feature leveling legs. I guess it's a cost / complexity issue, but I consider
 them a must and not only to defend against less than 100% precision on the
 furniture builder's part. Most floors are not fully level, so even the most
 well built piece might wobble and have to be shimmed.
