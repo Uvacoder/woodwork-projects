@@ -1,7 +1,7 @@
 This folder contains plans for woodworking projects which I designed, mostly
 for building out of plywood. I build many other things either using plans
-others have published, or simply winging it. For a gallery of projects,
-see IG.
+others have published, or simply winging it. For a gallery of selected projects,
+click on the [gallery folder](gallery/).
 
 The plans are provided as .stf files for [Sketchup](https://www.sketchup.com/),
 and newer plans also come with a cutlist in PDF format, which was created with
