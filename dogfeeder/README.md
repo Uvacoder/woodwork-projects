@@ -1,4 +1,4 @@
-I built one of these for all our dogs, in different sizes. It is easy to
+I built one of these for each one of our dogs, in different sizes. It is easy to
 scale. For the bowls I use the Van Ness heavyweight crocks, in the appropriate
 size.
 

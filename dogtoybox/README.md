@@ -1,4 +1,4 @@
-A dog toy funnel / hopper / dispenser. The idea is that the toys are thrown in
+A dog toy funnel / hopper / dispenser. The idea is that the humans throw the in
 at the top and the dogs get them at the bottom. It worked out great and is one
 of my favorite builds!
 
