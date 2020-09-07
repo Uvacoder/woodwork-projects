@@ -71,7 +71,7 @@ tables](https://woodgears.ca/miter/) for the rest of us.
 
 ## Modern Adirondack chair
 
-Plan by [Ana White](https://www.ana-white.com/woodworking-projects/2x4-modern-adirondack-chair).
+Plans by [Ana White](https://www.ana-white.com/woodworking-projects/2x4-modern-adirondack-chair).
 
 ![](pics/IMG_0544.png)
 
