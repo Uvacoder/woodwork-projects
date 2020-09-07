@@ -33,3 +33,13 @@ tables](https://woodgears.ca/miter/)
 ![](pics/IMG_0168.png)
 
 
+## #blm sign
+
+![](pics/IMG_0274.png)
+
+
+## Tidy cat feeders
+
+![](pics/IMG_0361.png)
+
+
