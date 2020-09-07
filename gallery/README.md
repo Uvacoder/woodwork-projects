@@ -28,12 +28,22 @@ tables](https://woodgears.ca/miter/)
 ![](pics/IMG_0152.png)
 
 
+## Desk lamp
+
+![](pics/IMG_7900.png)
+
+
 ## Floating shelf
 
 ![](pics/IMG_0168.png)
 
 
-## #blm sign
+## Jazz bass
+
+![](pics/IMG_6428.png)
+
+
+## #blm protest sign
 
 ![](pics/IMG_0274.png)
 
@@ -75,5 +85,10 @@ Plan by [Ana White](https://www.ana-white.com/woodworking-projects/2x4-modern-ad
 ![](pics/IMG_3623.png)
 ![](pics/IMG_3631.png)
 ![](pics/IMG_3621.png)
+
+
+## Record crate
+
+![](pics/IMG_6185.png)
 
 
