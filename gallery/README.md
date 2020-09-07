@@ -58,6 +58,16 @@ tables](https://woodgears.ca/miter/)
 ![](pics/IMG_0377.png)
 
 
+## Dog toy holder / dispenser
+
+![](pics/IMG_4593.png)
+
+
+## Dog feeders
+
+![](pics/IMG_4725.png)
+
+
 ## Garden swing
 
 ![](pics/IMG_0465.png)
@@ -90,5 +100,26 @@ Plan by [Ana White](https://www.ana-white.com/woodworking-projects/2x4-modern-ad
 ## Record crate
 
 ![](pics/IMG_6185.png)
+
+
+## Small closet remodel
+
+![](pics/IMG_0075.png)
+
+
+## Lumber cutoff storage
+
+![](pics/IMG_0234.png)
+
+
+## Kitchen utensil & napkin holder
+
+![](pics/IMG_0457.png)
+
+
+## Aviary bird feeders
+
+![](pics/IMG_1652.png)
+![](pics/IMG_1913.png)
 
 
