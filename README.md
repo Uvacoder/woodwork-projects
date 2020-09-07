@@ -1,8 +1,10 @@
 This folder contains the plans for some of my woodworking projects. I'm
 uploading plans that are 'generic' and could be helpful to / reused by other
-woodworkers (as opposed to my more custom / one-off plans). I have of course
+woodworkers (as opposed to my more custom / one-off plans).
+
+I have of course
 built many other things either using plans published by others, or simply by
-winging it. For a more extensive selection of my projects, see the [gallery
+winging it. For a more extensive selection of projects, see the [gallery
 folder](gallery/).
 
 My plans are provided as .stl files for [Sketchup](https://www.sketchup.com/).
