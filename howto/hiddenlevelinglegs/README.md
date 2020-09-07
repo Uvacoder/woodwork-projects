@@ -17,6 +17,13 @@ them a must and not only to defend against less than 100% precision on the
 furniture builder's part. Most floors are not fully level, so even the most
 well built piece might wobble and have to be shimmed.
 
+It is not an overstatement to say that I got into furniture building in large
+part because I was so sick of dealing with wobbly furniture and wanted to show
+that it's possible to have simple, cheap and discreetly hidden leveling legs
+everywhere. So this workflow of leg building was one of the first things I
+devised. (Of course I'm not claiming that this method of leveling is an
+original idea.)
+
 The leveling assembly I'm showing here costs pennies, and can be put into the
 leg in under two minutes by drilling two holes. When fully closed, no one will
 know it's even there.
