@@ -10,11 +10,11 @@ of these legs have a built-in leveling mechanism:
 
 ![](pics/IMG_3912.png "Plywood leg")
 
-I don't understand why not more furniture features leveling legs. I consider
+I don't understand why not more commercial furniture (or woodworking plans)
+feature leveling legs. I guess it's a cost / complexity reason, but I consider
 them a must and not only to defend against less than 100% precision on the
 furniture builder's part. Most floors are not fully level, so even the most
-well built piece might wobble and have to be shimmed, once put in its final
-place.
+well built piece might wobble and have to be shimmed.
 
 The leveling assembly I'm showing here costs pennies, and can be put into the
 leg in under two minutes by drilling two holes. When fully closed, no one will
