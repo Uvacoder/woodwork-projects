@@ -8,7 +8,7 @@
 
 The math on the cut angles on slanted polygons is extremely involved. Luckily,
 there are people who figured it all out and [published handy
-tables](https://woodgears.ca/miter/)
+tables](https://woodgears.ca/miter/).
 
 ![](pics/IMG_0090.png)
 ![](pics/IMG_0237.png)
@@ -21,4 +21,15 @@ tables](https://woodgears.ca/miter/)
 The math on the cut angles on slanted polygons is extremely involved. Luckily,
 there are people who figured it all out and [published handy
 tables](https://woodgears.ca/miter/)
+
+
+## Fancy containers
+
+![](pics/IMG_0152.png)
+
+
+## Floating shelf
+
+![](pics/IMG_0168.png)
+
 
