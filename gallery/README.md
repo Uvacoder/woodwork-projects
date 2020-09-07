@@ -48,3 +48,31 @@ tables](https://woodgears.ca/miter/)
 ![](pics/IMG_0377.png)
 
 
+## Garden swing
+
+![](pics/IMG_0465.png)
+
+
+## Modern Adirondack chair
+
+Plan by [Ana White](https://www.ana-white.com/woodworking-projects/2x4-modern-adirondack-chair).
+
+![](pics/IMG_0544.png)
+
+
+## Rolling planter box
+
+![](pics/IMG_0634.png)
+
+
+## 10' x 10' x 10' backyard aviary for [rescue pigeons](https://pigeonrescue.org)
+
+![](pics/IMG_1937.png)
+
+
+## Houses of Game Of Thrones coaster set
+
+![](pics/IMG_3623.png)
+![](pics/IMG_3631.png)
+
+
