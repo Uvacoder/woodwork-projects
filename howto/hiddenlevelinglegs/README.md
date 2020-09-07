@@ -1,5 +1,5 @@
 If you peruse the [gallery](../../gallery/), you might notice that most of my
-furniture pieces feature rounded legs that look like this:
+furniture pieces feature rounded legs that look like this in close-up:
 
 ![](pics/IMG_3913.png "Plywood leg")
 
