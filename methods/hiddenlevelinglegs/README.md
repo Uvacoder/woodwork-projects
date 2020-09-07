@@ -1,4 +1,4 @@
-If you peruse the [gallery](../gallery/), you might notice that most of my
+If you peruse the [gallery](../../gallery/), you might notice that most of my
 furniture pieces feature rounded legs that look like this:
 
 ![](pics/IMG_3913.png "Plywood leg")
