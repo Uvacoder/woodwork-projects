@@ -1,4 +1,4 @@
-This is a relatively small size for cutoff store - ideal for small shops.
+This is a relatively small size for a cutoff store - ideal for small shops.
 
 Originally I planned to not use a bottom for it so the plan shows an open
 bottom. But the floor in my shop is quite uneven, so pretty soon after
