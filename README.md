@@ -1,4 +1,4 @@
-The [plans folder](plans/) contains my woodworking designs.
+The [plans folder](plans/) contains some of my woodworking designs.
 
 The [gallery folder](gallery/) contains a more extensive selection of projects,
 as a lot of the time I build things without a plan, or use plans published by
