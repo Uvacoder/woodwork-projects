@@ -9,7 +9,7 @@ out of your plywood panels. I don't always follow the cutlist 100%, but it is
 always very helpful to look at the generated cutlist to get an idea for an
 approach.
 
-I buy full sheets of plywood (4' x 8'), but I break them down to three
+I buy full sheets of plywood (4' x 8'), but I usually break them down to three
 equal-sized pieces for easy transport (ie. 3 panels of 32" x 48"). Most
 cutlists provided reflect this smaller panel sizze, except when boards longer
 than 4' are required (eg. the [long shelves](longshelves/) ).
