@@ -1,4 +1,4 @@
-A generic and fairly straightforward shelf plan. This basic design can be
+A basic and fairly straightforward shelf design that can be
 adapted for many purposes (bookcase, media console, shoe rack, closet
 organizer...) by scaling the size up and down, changing the number of shelves,
 vertical supports etc. 
