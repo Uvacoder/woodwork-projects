@@ -124,3 +124,7 @@ Plans by [Ana White](https://www.ana-white.com/woodworking-projects/2x4-modern-a
 ![](pics/IMG_0330.png)
 
 
+## Shelves
+
+![](pics/49E2081E-DD85-4944-B4BF-207422F42874.png)
+
