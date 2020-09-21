@@ -29,9 +29,9 @@ leg in under two minutes by drilling two holes. When fully closed, no one will
 know it's even there.
 
 To put it together, you only need a T-nut and a bolt that fits the nut and has
-a flat, wide head. The one shown is my favorite, these are variously called
-"furniture" / "hex drive" / "joint connector" bolts. "Elevator" bolts would
-also work.
+a flat, wide head. The bolt shown here is my favorite, these are variously
+called "furniture" / "hex drive" / "joint connector" bolts. "Elevator" bolts
+would also work.
 
 ![](pics/IMG_3888.png "Supplies")
 
